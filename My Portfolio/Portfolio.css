@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.nav-bar-logo {
+    font-size: 30px;
+    font-weight: bold;
+    width: 50px;
+    height: 50px;
+    border-color: #4b6cc1;
+    border-style: solid;
+    padding-left: 12px;
+}
+
+
+
+.nav-bar-banner {
+    background-color: #191a1d;
+    height: 100vh;
+
+}
+
+p {
+    font-family: "Roboto";
+    color: #9aa5b1;
+    font-size: 24px;
+}
+
+h1 {
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 300;
+}
+
+span {
+    color: #4b6cc1;
+}
+
+.button {
+    background-color: #4b6cc1;
+    width: 130px;
+    height: 45px;
+}
+
+.content-img {
+
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+.about-section-bg-color {
+    background-color: #323f4b;
+    font-family: "Roboto";
+}
+
+.facts-text {
+    color: #cced00;
+    font-size: 30px;
+}
+
+.about-text {
+    color: #9aa5b1;
+    font-weight: bold;
+}
+
+.skills-section-bg-color {
+    background-color: #1f2933;
+}
+
+.skills-contanier {
+    border-radius: 10px;
+    background-color: #323f4b;
+    color: white;
+}
+
+.content-card {
+    background-color: #323f4b;
+    color: #9aa5b1;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.section-background {
+    background-color: #3e4c59;
+}
+
+.yellow-text {
+    color: #cced00;
+}
+
+svg {
+    color: #cced00;
+}
+
+.container-what-i-do-cards {
+    background-color: #323f4b;
+}
+
+.section-bg-color {
+    background-color: #52606d;
+}
+
+p {
+    color: #9aa5b1;
+}
+
+.yellow-text {
+    color: #cced00;
+}
+
+.bg-img-wrk-section {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png');
+    background-size: cover;
+}
+
+.line {
+    height: 3px;
+    background-color: white;
+}
+
+svg {
+    color: white;
+
+}
+
+.image-deco {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%
+}
+
+.carousel-background-color {
+    background-color: #323f4b
+}
+
+.Testimonials-Section-bg-color {
+    background-color: #1f2933
+}
+
+.yellow-text {
+    color: #cced00;
+}
+
+.grey-text {
+    color: #9aa5b1;
+}
+
+.carousel-image {
+    width: 200px;
+    height: 200px;
+}
+
+.Footer-section-image {
+    width: 150px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.bg-color-upper-section {
+    background-color: #001c32;
+}
+
+p {
+    color: #9aa5b1;
+}
+
+h4 {
+    color: #cced00;
+}
+
+.bg-color-lower-section {
+    background-color: #0d2436;
+}
+
+.arrow-icon {
+    width: 16px;
+
+}
